@@ -1,0 +1,22 @@
+a.smooth-link {
+  color: #999999;
+}
+
+a.smooth-link:hover {
+  color: white;
+  text-decoration: none;
+}
+
+.center {
+  text-align: center;
+}
+
+.jumbo-h1 {
+  margin-bottom: 50px;
+  font-weight: bold;
+}
+
+.jumbo-h2 {
+  margin-bottom: 30px;
+  color: #999999;
+}
